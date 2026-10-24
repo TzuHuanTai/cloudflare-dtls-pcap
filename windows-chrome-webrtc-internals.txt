@@ -1,0 +1,2226 @@
+{
+ "cpuPerformance": 4,
+ "deviceMemory": 16,
+ "hardwareConcurrency": 14,
+ "timestamp": 1792808505317,
+ "getUserMedia": [],
+ "PeerConnections": {
+  "8-4": {
+   "pid": 15132,
+   "rtcConfiguration": "{\"iceServers\":[{\"urls\":[\"stun:stun.cloudflare.com:3478\"]}],\"bundlePolicy\":\"max-bundle\",\"alwaysNegotiateDataChannels\":false}",
+   "stats": {
+    "CF10:87:FB:4C:6B:30:89:BC:CF:92:90:98:84:DE:C4:7E:20:2A:8C:41:E3:1A:0A:2F:A2:A7:E9:06:88:B5:DC:D7-base64Certificate": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "certificate",
+     "values": "[\"MIIBFTCBvKADAgECAggpgI+fbbTg8DAKBggqhkjOPQQDAjARMQ8wDQYDVQQDDAZXZWJSVEMwHhcNMjYxMDIzMDIyMTM4WhcNMjYxMTIzMDIyMTM4WjARMQ8wDQYDVQQDDAZXZWJSVEMwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARgQwWIZ+5pLhINf4xOFFh5X4LLmpIjXvtWpLLBCeBW5r4vwmFWQkch7lCcL2TF3/ixpBKVlUL8iTiThqaC8q0QMAoGCCqGSM49BAMCA0gAMEUCIGmuuqa8u4fO4aBN3Td3fupAQV5BIIvviqeO94SNuI0aAiEA/pofJIAAunHYhnwsey+XVPBna2oAPG0EhDWOv/pgLd8=\",\"MIIBFTCBvKADAgECAggpgI+fbbTg8DAKBggqhkjOPQQDAjARMQ8wDQYDVQQDDAZXZWJSVEMwHhcNMjYxMDIzMDIyMTM4WhcNMjYxMTIzMDIyMTM4WjARMQ8wDQYDVQQDDAZXZWJSVEMwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARgQwWIZ+5pLhINf4xOFFh5X4LLmpIjXvtWpLLBCeBW5r4vwmFWQkch7lCcL2TF3/ixpBKVlUL8iTiThqaC8q0QMAoGCCqGSM49BAMCA0gAMEUCIGmuuqa8u4fO4aBN3Td3fupAQV5BIIvviqeO94SNuI0aAiEA/pofJIAAunHYhnwsey+XVPBna2oAPG0EhDWOv/pgLd8=\",\"MIIBFTCBvKADAgECAggpgI+fbbTg8DAKBggqhkjOPQQDAjARMQ8wDQYDVQQDDAZXZWJSVEMwHhcNMjYxMDIzMDIyMTM4WhcNMjYxMTIzMDIyMTM4WjARMQ8wDQYDVQQDDAZXZWJSVEMwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARgQwWIZ+5pLhINf4xOFFh5X4LLmpIjXvtWpLLBCeBW5r4vwmFWQkch7lCcL2TF3/ixpBKVlUL8iTiThqaC8q0QMAoGCCqGSM49BAMCA0gAMEUCIGmuuqa8u4fO4aBN3Td3fupAQV5BIIvviqeO94SNuI0aAiEA/pofJIAAunHYhnwsey+XVPBna2oAPG0EhDWOv/pgLd8=\",\"MIIBFTCBvKADAgECAggpgI+fbbTg8DAKBggqhkjOPQQDAjARMQ8wDQYDVQQDDAZXZWJSVEMwHhcNMjYxMDIzMDIyMTM4WhcNMjYxMTIzMDIyMTM4WjARMQ8wDQYDVQQDDAZXZWJSVEMwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARgQwWIZ+5pLhINf4xOFFh5X4LLmpIjXvtWpLLBCeBW5r4vwmFWQkch7lCcL2TF3/ixpBKVlUL8iTiThqaC8q0QMAoGCCqGSM49BAMCA0gAMEUCIGmuuqa8u4fO4aBN3Td3fupAQV5BIIvviqeO94SNuI0aAiEA/pofJIAAunHYhnwsey+XVPBna2oAPG0EhDWOv/pgLd8=\",\"MIIBFTCBvKADAgECAggpgI+fbbTg8DAKBggqhkjOPQQDAjARMQ8wDQYDVQQDDAZXZWJSVEMwHhcNMjYxMDIzMDIyMTM4WhcNMjYxMTIzMDIyMTM4WjARMQ8wDQYDVQQDDAZXZWJSVEMwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARgQwWIZ+5pLhINf4xOFFh5X4LLmpIjXvtWpLLBCeBW5r4vwmFWQkch7lCcL2TF3/ixpBKVlUL8iTiThqaC8q0QMAoGCCqGSM49BAMCA0gAMEUCIGmuuqa8u4fO4aBN3Td3fupAQV5BIIvviqeO94SNuI0aAiEA/pofJIAAunHYhnwsey+XVPBna2oAPG0EhDWOv/pgLd8=\"]"
+    },
+    "CF10:87:FB:4C:6B:30:89:BC:CF:92:90:98:84:DE:C4:7E:20:2A:8C:41:E3:1A:0A:2F:A2:A7:E9:06:88:B5:DC:D7-fingerprint": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "certificate",
+     "values": "[\"10:87:FB:4C:6B:30:89:BC:CF:92:90:98:84:DE:C4:7E:20:2A:8C:41:E3:1A:0A:2F:A2:A7:E9:06:88:B5:DC:D7\",\"10:87:FB:4C:6B:30:89:BC:CF:92:90:98:84:DE:C4:7E:20:2A:8C:41:E3:1A:0A:2F:A2:A7:E9:06:88:B5:DC:D7\",\"10:87:FB:4C:6B:30:89:BC:CF:92:90:98:84:DE:C4:7E:20:2A:8C:41:E3:1A:0A:2F:A2:A7:E9:06:88:B5:DC:D7\",\"10:87:FB:4C:6B:30:89:BC:CF:92:90:98:84:DE:C4:7E:20:2A:8C:41:E3:1A:0A:2F:A2:A7:E9:06:88:B5:DC:D7\",\"10:87:FB:4C:6B:30:89:BC:CF:92:90:98:84:DE:C4:7E:20:2A:8C:41:E3:1A:0A:2F:A2:A7:E9:06:88:B5:DC:D7\"]"
+    },
+    "CF10:87:FB:4C:6B:30:89:BC:CF:92:90:98:84:DE:C4:7E:20:2A:8C:41:E3:1A:0A:2F:A2:A7:E9:06:88:B5:DC:D7-fingerprintAlgorithm": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "certificate",
+     "values": "[\"sha-256\",\"sha-256\",\"sha-256\",\"sha-256\",\"sha-256\"]"
+    },
+    "CF10:87:FB:4C:6B:30:89:BC:CF:92:90:98:84:DE:C4:7E:20:2A:8C:41:E3:1A:0A:2F:A2:A7:E9:06:88:B5:DC:D7-type": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "certificate",
+     "values": "[\"certificate\",\"certificate\",\"certificate\",\"certificate\",\"certificate\"]"
+    },
+    "CF10:87:FB:4C:6B:30:89:BC:CF:92:90:98:84:DE:C4:7E:20:2A:8C:41:E3:1A:0A:2F:A2:A7:E9:06:88:B5:DC:D7-timestamp": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "certificate",
+     "values": "[1792808499953.293,1792808500961.293,1792808501965.871,1792808502967.242,1792808503976.749]"
+    },
+    "CP8vz1xcyi_UpBcdccE-bytesDiscardedOnSend": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[0,0,0,0,0]"
+    },
+    "CP8vz1xcyi_UpBcdccE-bytesReceived": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[0,0,240,298554,1147125]"
+    },
+    "CP8vz1xcyi_UpBcdccE-bytesSent": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[2926,2926,5872,6902,7018]"
+    },
+    "CP8vz1xcyi_UpBcdccE-consentRequestsSent": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[0,0,1,1,1]"
+    },
+    "CP8vz1xcyi_UpBcdccE-currentRoundTripTime": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[0.023,0.023,0.003,0.003,0.003]"
+    },
+    "CP8vz1xcyi_UpBcdccE-lastPacketSentTimestamp": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[1792808499912,1792808499912,1792808501964,1792808502929,1792808502975]"
+    },
+    "CP8vz1xcyi_UpBcdccE-localCandidateId": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[\"I8vz1xcyi\",\"I8vz1xcyi\",\"I8vz1xcyi\",\"I8vz1xcyi\",\"I8vz1xcyi\"]"
+    },
+    "CP8vz1xcyi_UpBcdccE-nominated": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[false,false,true,true,true]"
+    },
+    "CP8vz1xcyi_UpBcdccE-packetsDiscardedOnSend": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[0,0,0,0,0]"
+    },
+    "CP8vz1xcyi_UpBcdccE-packetsReceived": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[0,0,5,271,1011]"
+    },
+    "CP8vz1xcyi_UpBcdccE-packetsSent": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[4,4,8,18,20]"
+    },
+    "CP8vz1xcyi_UpBcdccE-priority": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[7205793488619700000,7205793488619700000,7205793488619700000,7205793488619700000,7205793488619700000]"
+    },
+    "CP8vz1xcyi_UpBcdccE-remoteCandidateId": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[\"IUpBcdccE\",\"IUpBcdccE\",\"IUpBcdccE\",\"IUpBcdccE\",\"IUpBcdccE\"]"
+    },
+    "CP8vz1xcyi_UpBcdccE-requestsReceived": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[6,6,7,7,7]"
+    },
+    "CP8vz1xcyi_UpBcdccE-requestsSent": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[6,6,7,7,7]"
+    },
+    "CP8vz1xcyi_UpBcdccE-responsesReceived": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[6,6,7,7,7]"
+    },
+    "CP8vz1xcyi_UpBcdccE-responsesSent": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[6,6,7,7,7]"
+    },
+    "CP8vz1xcyi_UpBcdccE-state": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[\"succeeded\",\"succeeded\",\"succeeded\",\"succeeded\",\"succeeded\"]"
+    },
+    "CP8vz1xcyi_UpBcdccE-totalRoundTripTime": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[1.051,1.051,1.054,1.054,1.054]"
+    },
+    "CP8vz1xcyi_UpBcdccE-transportId": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[\"T01\",\"T01\",\"T01\",\"T01\",\"T01\"]"
+    },
+    "CP8vz1xcyi_UpBcdccE-type": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[\"candidate-pair\",\"candidate-pair\",\"candidate-pair\",\"candidate-pair\",\"candidate-pair\"]"
+    },
+    "CP8vz1xcyi_UpBcdccE-writable": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[true,true,true,true,true]"
+    },
+    "CP8vz1xcyi_UpBcdccE-[lastPacketSentTimestamp]": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[\"10/23/2026, 7:21:39 PM\",\"10/23/2026, 7:21:39 PM\",\"10/23/2026, 7:21:41 PM\",\"10/23/2026, 7:21:42 PM\",\"10/23/2026, 7:21:42 PM\"]"
+    },
+    "CP8vz1xcyi_UpBcdccE-timestamp": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[1792808499953.293,1792808500961.293,1792808501965.871,1792808502967.242,1792808503976.749]"
+    },
+    "D4-bytesReceived": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "data-channel",
+     "values": "[0,0,0,0,0]"
+    },
+    "D4-bytesSent": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "data-channel",
+     "values": "[0,0,0,0,0]"
+    },
+    "D4-dataChannelIdentifier": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "data-channel",
+     "values": "[0,0,0,0,0]"
+    },
+    "D4-label": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "data-channel",
+     "values": "[\"server-events\",\"server-events\",\"server-events\",\"server-events\",\"server-events\"]"
+    },
+    "D4-messagesReceived": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "data-channel",
+     "values": "[0,0,0,0,0]"
+    },
+    "D4-messagesSent": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "data-channel",
+     "values": "[0,0,0,0,0]"
+    },
+    "D4-protocol": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "data-channel",
+     "values": "[\"\",\"\",\"\",\"\",\"\"]"
+    },
+    "D4-state": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "data-channel",
+     "values": "[\"connecting\",\"connecting\",\"connecting\",\"open\",\"open\"]"
+    },
+    "D4-type": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "data-channel",
+     "values": "[\"data-channel\",\"data-channel\",\"data-channel\",\"data-channel\",\"data-channel\"]"
+    },
+    "D4-timestamp": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "data-channel",
+     "values": "[1792808499953.293,1792808500961.293,1792808501965.871,1792808502967.242,1792808503976.749]"
+    },
+    "I8vz1xcyi-address": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"172.92.132.4\",\"172.92.132.4\",\"172.92.132.4\",\"172.92.132.4\",\"172.92.132.4\"]"
+    },
+    "I8vz1xcyi-candidateType": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"srflx\",\"srflx\",\"srflx\",\"srflx\",\"srflx\"]"
+    },
+    "I8vz1xcyi-foundation": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[991566405,991566405,991566405,991566405,991566405]"
+    },
+    "I8vz1xcyi-ip": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"172.92.132.4\",\"172.92.132.4\",\"172.92.132.4\",\"172.92.132.4\",\"172.92.132.4\"]"
+    },
+    "I8vz1xcyi-isRemote": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[false,false,false,false,false]"
+    },
+    "I8vz1xcyi-networkAdapterType": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"any\",\"any\",\"any\",\"any\",\"any\"]"
+    },
+    "I8vz1xcyi-networkType": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"unknown\",\"unknown\",\"unknown\",\"unknown\",\"unknown\"]"
+    },
+    "I8vz1xcyi-port": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[60390,60390,60390,60390,60390]"
+    },
+    "I8vz1xcyi-priority": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[1677729535,1677729535,1677729535,1677729535,1677729535]"
+    },
+    "I8vz1xcyi-protocol": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"udp\",\"udp\",\"udp\",\"udp\",\"udp\"]"
+    },
+    "I8vz1xcyi-transportId": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"T01\",\"T01\",\"T01\",\"T01\",\"T01\"]"
+    },
+    "I8vz1xcyi-type": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"local-candidate\",\"local-candidate\",\"local-candidate\",\"local-candidate\",\"local-candidate\"]"
+    },
+    "I8vz1xcyi-url": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"stun:stun.cloudflare.com:3478\",\"stun:stun.cloudflare.com:3478\",\"stun:stun.cloudflare.com:3478\",\"stun:stun.cloudflare.com:3478\",\"stun:stun.cloudflare.com:3478\"]"
+    },
+    "I8vz1xcyi-usernameFragment": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"/cXe\",\"/cXe\",\"/cXe\",\"/cXe\",\"/cXe\"]"
+    },
+    "I8vz1xcyi-vpn": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[false,false,false,false,false]"
+    },
+    "I8vz1xcyi-timestamp": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[1792808499953.293,1792808500961.293,1792808501965.871,1792808502967.242,1792808503976.749]"
+    },
+    "I9izkCsVh-address": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"\",\"\",\"\",\"\",\"\"]"
+    },
+    "I9izkCsVh-candidateType": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"host\",\"host\",\"host\",\"host\",\"host\"]"
+    },
+    "I9izkCsVh-foundation": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[136727275,136727275,136727275,136727275,136727275]"
+    },
+    "I9izkCsVh-ip": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"\",\"\",\"\",\"\",\"\"]"
+    },
+    "I9izkCsVh-isRemote": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[false,false,false,false,false]"
+    },
+    "I9izkCsVh-networkAdapterType": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"any\",\"any\",\"any\",\"any\",\"any\"]"
+    },
+    "I9izkCsVh-networkType": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"unknown\",\"unknown\",\"unknown\",\"unknown\",\"unknown\"]"
+    },
+    "I9izkCsVh-port": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[60391,60391,60391,60391,60391]"
+    },
+    "I9izkCsVh-priority": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[2113939711,2113939711,2113939711,2113939711,2113939711]"
+    },
+    "I9izkCsVh-protocol": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"udp\",\"udp\",\"udp\",\"udp\",\"udp\"]"
+    },
+    "I9izkCsVh-transportId": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"T01\",\"T01\",\"T01\",\"T01\",\"T01\"]"
+    },
+    "I9izkCsVh-type": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"local-candidate\",\"local-candidate\",\"local-candidate\",\"local-candidate\",\"local-candidate\"]"
+    },
+    "I9izkCsVh-usernameFragment": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"/cXe\",\"/cXe\",\"/cXe\",\"/cXe\",\"/cXe\"]"
+    },
+    "I9izkCsVh-vpn": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[false,false,false,false,false]"
+    },
+    "I9izkCsVh-timestamp": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[1792808499953.293,1792808500961.293,1792808501965.871,1792808502967.242,1792808503976.749]"
+    },
+    "IIKLsoyV0-address": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"\",\"\",\"\",\"\",\"\"]"
+    },
+    "IIKLsoyV0-candidateType": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"host\",\"host\",\"host\",\"host\",\"host\"]"
+    },
+    "IIKLsoyV0-foundation": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[1499087028,1499087028,1499087028,1499087028,1499087028]"
+    },
+    "IIKLsoyV0-ip": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"\",\"\",\"\",\"\",\"\"]"
+    },
+    "IIKLsoyV0-isRemote": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[false,false,false,false,false]"
+    },
+    "IIKLsoyV0-networkAdapterType": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"any\",\"any\",\"any\",\"any\",\"any\"]"
+    },
+    "IIKLsoyV0-networkType": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"unknown\",\"unknown\",\"unknown\",\"unknown\",\"unknown\"]"
+    },
+    "IIKLsoyV0-port": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[9,9,9,9,9]"
+    },
+    "IIKLsoyV0-priority": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[1509957375,1509957375,1509957375,1509957375,1509957375]"
+    },
+    "IIKLsoyV0-protocol": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"tcp\",\"tcp\",\"tcp\",\"tcp\",\"tcp\"]"
+    },
+    "IIKLsoyV0-tcpType": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"active\",\"active\",\"active\",\"active\",\"active\"]"
+    },
+    "IIKLsoyV0-transportId": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"T01\",\"T01\",\"T01\",\"T01\",\"T01\"]"
+    },
+    "IIKLsoyV0-type": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"local-candidate\",\"local-candidate\",\"local-candidate\",\"local-candidate\",\"local-candidate\"]"
+    },
+    "IIKLsoyV0-usernameFragment": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"/cXe\",\"/cXe\",\"/cXe\",\"/cXe\",\"/cXe\"]"
+    },
+    "IIKLsoyV0-vpn": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[false,false,false,false,false]"
+    },
+    "IIKLsoyV0-timestamp": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[1792808499953.293,1792808500961.293,1792808501965.871,1792808502967.242,1792808503976.749]"
+    },
+    "IUpBcdccE-address": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "remote-candidate",
+     "values": "[\"141.101.90.0\",\"141.101.90.0\",\"141.101.90.0\",\"141.101.90.0\",\"141.101.90.0\"]"
+    },
+    "IUpBcdccE-candidateType": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "remote-candidate",
+     "values": "[\"host\",\"host\",\"host\",\"host\",\"host\"]"
+    },
+    "IUpBcdccE-foundation": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "remote-candidate",
+     "values": "[513273236,513273236,513273236,513273236,513273236]"
+    },
+    "IUpBcdccE-ip": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "remote-candidate",
+     "values": "[\"141.101.90.0\",\"141.101.90.0\",\"141.101.90.0\",\"141.101.90.0\",\"141.101.90.0\"]"
+    },
+    "IUpBcdccE-isRemote": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "remote-candidate",
+     "values": "[true,true,true,true,true]"
+    },
+    "IUpBcdccE-port": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "remote-candidate",
+     "values": "[1473,1473,1473,1473,1473]"
+    },
+    "IUpBcdccE-priority": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "remote-candidate",
+     "values": "[2130706431,2130706431,2130706431,2130706431,2130706431]"
+    },
+    "IUpBcdccE-protocol": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "remote-candidate",
+     "values": "[\"udp\",\"udp\",\"udp\",\"udp\",\"udp\"]"
+    },
+    "IUpBcdccE-transportId": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "remote-candidate",
+     "values": "[\"T01\",\"T01\",\"T01\",\"T01\",\"T01\"]"
+    },
+    "IUpBcdccE-type": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "remote-candidate",
+     "values": "[\"remote-candidate\",\"remote-candidate\",\"remote-candidate\",\"remote-candidate\",\"remote-candidate\"]"
+    },
+    "IUpBcdccE-usernameFragment": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "remote-candidate",
+     "values": "[\"2c5d15332aca0b080cdcaeaab912837acc8841beb8597afac0117fecdf10ebe8\",\"2c5d15332aca0b080cdcaeaab912837acc8841beb8597afac0117fecdf10ebe8\",\"2c5d15332aca0b080cdcaeaab912837acc8841beb8597afac0117fecdf10ebe8\",\"2c5d15332aca0b080cdcaeaab912837acc8841beb8597afac0117fecdf10ebe8\",\"2c5d15332aca0b080cdcaeaab912837acc8841beb8597afac0117fecdf10ebe8\"]"
+    },
+    "IUpBcdccE-timestamp": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "remote-candidate",
+     "values": "[1792808499953.293,1792808500961.293,1792808501965.871,1792808502967.242,1792808503976.749]"
+    },
+    "IeCgCxW09-address": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"\",\"\",\"\",\"\",\"\"]"
+    },
+    "IeCgCxW09-candidateType": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"host\",\"host\",\"host\",\"host\",\"host\"]"
+    },
+    "IeCgCxW09-foundation": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[1995024499,1995024499,1995024499,1995024499,1995024499]"
+    },
+    "IeCgCxW09-ip": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"\",\"\",\"\",\"\",\"\"]"
+    },
+    "IeCgCxW09-isRemote": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[false,false,false,false,false]"
+    },
+    "IeCgCxW09-networkAdapterType": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"any\",\"any\",\"any\",\"any\",\"any\"]"
+    },
+    "IeCgCxW09-networkType": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"unknown\",\"unknown\",\"unknown\",\"unknown\",\"unknown\"]"
+    },
+    "IeCgCxW09-port": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[9,9,9,9,9]"
+    },
+    "IeCgCxW09-priority": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[1509959935,1509959935,1509959935,1509959935,1509959935]"
+    },
+    "IeCgCxW09-protocol": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"tcp\",\"tcp\",\"tcp\",\"tcp\",\"tcp\"]"
+    },
+    "IeCgCxW09-tcpType": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"active\",\"active\",\"active\",\"active\",\"active\"]"
+    },
+    "IeCgCxW09-transportId": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"T01\",\"T01\",\"T01\",\"T01\",\"T01\"]"
+    },
+    "IeCgCxW09-type": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"local-candidate\",\"local-candidate\",\"local-candidate\",\"local-candidate\",\"local-candidate\"]"
+    },
+    "IeCgCxW09-usernameFragment": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"/cXe\",\"/cXe\",\"/cXe\",\"/cXe\",\"/cXe\"]"
+    },
+    "IeCgCxW09-vpn": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[false,false,false,false,false]"
+    },
+    "IeCgCxW09-timestamp": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[1792808499953.293,1792808500961.293,1792808501965.871,1792808502967.242,1792808503976.749]"
+    },
+    "Ioaodr1YQ-address": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"\",\"\",\"\",\"\",\"\"]"
+    },
+    "Ioaodr1YQ-candidateType": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"host\",\"host\",\"host\",\"host\",\"host\"]"
+    },
+    "Ioaodr1YQ-foundation": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[2472419105,2472419105,2472419105,2472419105,2472419105]"
+    },
+    "Ioaodr1YQ-ip": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"\",\"\",\"\",\"\",\"\"]"
+    },
+    "Ioaodr1YQ-isRemote": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[false,false,false,false,false]"
+    },
+    "Ioaodr1YQ-networkAdapterType": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"any\",\"any\",\"any\",\"any\",\"any\"]"
+    },
+    "Ioaodr1YQ-networkType": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"unknown\",\"unknown\",\"unknown\",\"unknown\",\"unknown\"]"
+    },
+    "Ioaodr1YQ-port": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[60390,60390,60390,60390,60390]"
+    },
+    "Ioaodr1YQ-priority": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[2113937151,2113937151,2113937151,2113937151,2113937151]"
+    },
+    "Ioaodr1YQ-protocol": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"udp\",\"udp\",\"udp\",\"udp\",\"udp\"]"
+    },
+    "Ioaodr1YQ-transportId": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"T01\",\"T01\",\"T01\",\"T01\",\"T01\"]"
+    },
+    "Ioaodr1YQ-type": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"local-candidate\",\"local-candidate\",\"local-candidate\",\"local-candidate\",\"local-candidate\"]"
+    },
+    "Ioaodr1YQ-usernameFragment": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[\"/cXe\",\"/cXe\",\"/cXe\",\"/cXe\",\"/cXe\"]"
+    },
+    "Ioaodr1YQ-vpn": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[false,false,false,false,false]"
+    },
+    "Ioaodr1YQ-timestamp": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "local-candidate",
+     "values": "[1792808499953.293,1792808500961.293,1792808501965.871,1792808502967.242,1792808503976.749]"
+    },
+    "P-dataChannelsClosed": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "peer-connection",
+     "values": "[0,0,0,0,0]"
+    },
+    "P-dataChannelsOpened": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "peer-connection",
+     "values": "[0,0,0,1,1]"
+    },
+    "P-type": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "peer-connection",
+     "values": "[\"peer-connection\",\"peer-connection\",\"peer-connection\",\"peer-connection\",\"peer-connection\"]"
+    },
+    "P-timestamp": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "peer-connection",
+     "values": "[1792808499953.293,1792808500961.293,1792808501965.871,1792808502967.242,1792808503976.749]"
+    },
+    "T01-bytesReceived": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "transport",
+     "values": "[0,0,240,298554,1147125]"
+    },
+    "T01-bytesSent": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "transport",
+     "values": "[2926,2926,5872,6902,7018]"
+    },
+    "T01-dtlsRole": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "transport",
+     "values": "[\"client\",\"client\",\"client\",\"client\",\"client\"]"
+    },
+    "T01-dtlsState": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "transport",
+     "values": "[\"connecting\",\"connecting\",\"connecting\",\"connected\",\"connected\"]"
+    },
+    "T01-iceLocalUsernameFragment": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "transport",
+     "values": "[\"/cXe\",\"/cXe\",\"/cXe\",\"/cXe\",\"/cXe\"]"
+    },
+    "T01-iceRole": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "transport",
+     "values": "[\"controlling\",\"controlling\",\"controlling\",\"controlling\",\"controlling\"]"
+    },
+    "T01-iceState": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "transport",
+     "values": "[\"connected\",\"connected\",\"connected\",\"connected\",\"connected\"]"
+    },
+    "T01-localCertificateId": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "transport",
+     "values": "[\"CF10:87:FB:4C:6B:30:89:BC:CF:92:90:98:84:DE:C4:7E:20:2A:8C:41:E3:1A:0A:2F:A2:A7:E9:06:88:B5:DC:D7\",\"CF10:87:FB:4C:6B:30:89:BC:CF:92:90:98:84:DE:C4:7E:20:2A:8C:41:E3:1A:0A:2F:A2:A7:E9:06:88:B5:DC:D7\",\"CF10:87:FB:4C:6B:30:89:BC:CF:92:90:98:84:DE:C4:7E:20:2A:8C:41:E3:1A:0A:2F:A2:A7:E9:06:88:B5:DC:D7\",\"CF10:87:FB:4C:6B:30:89:BC:CF:92:90:98:84:DE:C4:7E:20:2A:8C:41:E3:1A:0A:2F:A2:A7:E9:06:88:B5:DC:D7\",\"CF10:87:FB:4C:6B:30:89:BC:CF:92:90:98:84:DE:C4:7E:20:2A:8C:41:E3:1A:0A:2F:A2:A7:E9:06:88:B5:DC:D7\"]"
+    },
+    "T01-packetsReceived": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "transport",
+     "values": "[0,0,5,271,1011]"
+    },
+    "T01-packetsSent": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "transport",
+     "values": "[4,4,8,18,20]"
+    },
+    "T01-selectedCandidatePairChanges": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "transport",
+     "values": "[1,1,1,1,1]"
+    },
+    "T01-selectedCandidatePairId": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "transport",
+     "values": "[\"CP8vz1xcyi_UpBcdccE\",\"CP8vz1xcyi_UpBcdccE\",\"CP8vz1xcyi_UpBcdccE\",\"CP8vz1xcyi_UpBcdccE\",\"CP8vz1xcyi_UpBcdccE\"]"
+    },
+    "T01-type": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "transport",
+     "values": "[\"transport\",\"transport\",\"transport\",\"transport\",\"transport\"]"
+    },
+    "T01-timestamp": {
+     "startTime": "2026-10-24T02:21:39.953Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "transport",
+     "values": "[1792808499953.293,1792808500961.293,1792808501965.871,1792808502967.242,1792808503976.749]"
+    },
+    "CP8vz1xcyi_UpBcdccE-[bytesSent_in_bits/s]": {
+     "startTime": "2026-10-24T02:21:40.961Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[0,23461,8229,919]"
+    },
+    "CP8vz1xcyi_UpBcdccE-[bytesReceived_in_bits/s]": {
+     "startTime": "2026-10-24T02:21:40.961Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[0,1911,2383245,6724636]"
+    },
+    "D4-[messagesSent/s]": {
+     "startTime": "2026-10-24T02:21:40.961Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "data-channel",
+     "values": "[0,0,0,0]"
+    },
+    "D4-[messagesReceived/s]": {
+     "startTime": "2026-10-24T02:21:40.961Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "data-channel",
+     "values": "[0,0,0,0]"
+    },
+    "D4-[bytesSent_in_bits/s]": {
+     "startTime": "2026-10-24T02:21:40.961Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "data-channel",
+     "values": "[0,0,0,0]"
+    },
+    "D4-[bytesReceived_in_bits/s]": {
+     "startTime": "2026-10-24T02:21:40.961Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "data-channel",
+     "values": "[0,0,0,0]"
+    },
+    "T01-[bytesSent_in_bits/s]": {
+     "startTime": "2026-10-24T02:21:40.961Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "transport",
+     "values": "[0,23461,8229,919]"
+    },
+    "T01-[bytesReceived_in_bits/s]": {
+     "startTime": "2026-10-24T02:21:40.961Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "transport",
+     "values": "[0,1911,2383245,6724636]"
+    },
+    "CP8vz1xcyi_UpBcdccE-lastPacketReceivedTimestamp": {
+     "startTime": "2026-10-24T02:21:41.965Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[1792808501964,1792808502937,1792808503961]"
+    },
+    "CP8vz1xcyi_UpBcdccE-[totalRoundTripTime/responsesReceived]": {
+     "startTime": "2026-10-24T02:21:41.965Z",
+     "endTime": "2026-10-24T02:21:41.965Z",
+     "statsType": "candidate-pair",
+     "values": "[0.0030000000000001137]"
+    },
+    "CP8vz1xcyi_UpBcdccE-[lastPacketReceivedTimestamp]": {
+     "startTime": "2026-10-24T02:21:41.965Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[\"10/23/2026, 7:21:41 PM\",\"10/23/2026, 7:21:42 PM\",\"10/23/2026, 7:21:43 PM\"]"
+    },
+    "IT01V1502674273-bytesReceived": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[205340,780647]"
+    },
+    "IT01V1502674273-codecId": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[\"CIT01_125_level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\",\"CIT01_125_level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\"]"
+    },
+    "IT01V1502674273-decoderImplementation": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[\"ExternalDecoder (D3D11VideoDecoder)\",\"ExternalDecoder (D3D11VideoDecoder)\"]"
+    },
+    "IT01V1502674273-firCount": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0]"
+    },
+    "IT01V1502674273-frameHeight": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[1080,1080]"
+    },
+    "IT01V1502674273-frameWidth": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[1920,1920]"
+    },
+    "IT01V1502674273-framesAssembledFromMultiplePackets": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[8,39]"
+    },
+    "IT01V1502674273-framesDecoded": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[8,39]"
+    },
+    "IT01V1502674273-framesDropped": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0]"
+    },
+    "IT01V1502674273-framesPerSecond": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[46,31]"
+    },
+    "IT01V1502674273-framesReceived": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[8,39]"
+    },
+    "IT01V1502674273-freezeCount": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0]"
+    },
+    "IT01V1502674273-headerBytesReceived": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[2172,8232]"
+    },
+    "IT01V1502674273-jitter": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0.017,0.011]"
+    },
+    "IT01V1502674273-jitterBufferDelay": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0.23374399999999998,1.008398]"
+    },
+    "IT01V1502674273-jitterBufferEmittedCount": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[8,39]"
+    },
+    "IT01V1502674273-jitterBufferMinimumDelay": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0.36927899999999997,2.6577539999999997]"
+    },
+    "IT01V1502674273-jitterBufferTargetDelay": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0.36927899999999997,2.6577539999999997]"
+    },
+    "IT01V1502674273-keyFramesDecoded": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[1,1]"
+    },
+    "IT01V1502674273-kind": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[\"video\",\"video\"]"
+    },
+    "IT01V1502674273-lastPacketReceivedTimestamp": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[1792808502933.714,1792808503953.823]"
+    },
+    "IT01V1502674273-mid": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[1,1]"
+    },
+    "IT01V1502674273-minPlayoutDelay": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0]"
+    },
+    "IT01V1502674273-nackCount": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0]"
+    },
+    "IT01V1502674273-packetsLost": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0]"
+    },
+    "IT01V1502674273-packetsReceived": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[181,686]"
+    },
+    "IT01V1502674273-packetsReceivedWithCe": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0]"
+    },
+    "IT01V1502674273-packetsReceivedWithEct1": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0]"
+    },
+    "IT01V1502674273-pauseCount": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0]"
+    },
+    "IT01V1502674273-pliCount": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[2,2]"
+    },
+    "IT01V1502674273-powerEfficientDecoder": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[true,true]"
+    },
+    "IT01V1502674273-rtxSsrc": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[1500438859,1500438859]"
+    },
+    "IT01V1502674273-ssrc": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[1502674273,1502674273]"
+    },
+    "IT01V1502674273-totalAssemblyTime": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0.08599899999999999,0.15428999999999998]"
+    },
+    "IT01V1502674273-totalDecodeTime": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0.045978,0.063095]"
+    },
+    "IT01V1502674273-totalFreezesDuration": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0]"
+    },
+    "IT01V1502674273-totalInterFrameDelay": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0.168,1.183]"
+    },
+    "IT01V1502674273-totalPausesDuration": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0]"
+    },
+    "IT01V1502674273-totalProcessingDelay": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0.286255,1.0795379999999999]"
+    },
+    "IT01V1502674273-totalSquaredInterFrameDelay": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0.008296,0.045446999999999974]"
+    },
+    "IT01V1502674273-trackIdentifier": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[\"czQIKffERJAyOAzg\",\"czQIKffERJAyOAzg\"]"
+    },
+    "IT01V1502674273-transportId": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[\"T01\",\"T01\"]"
+    },
+    "IT01V1502674273-type": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[\"inbound-rtp\",\"inbound-rtp\"]"
+    },
+    "IT01V1502674273-[framesReceived-framesDecoded-framesDropped]": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0]"
+    },
+    "IT01V1502674273-[codec]": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[\"H264 (125, level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f)\",\"H264 (125, level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f)\"]"
+    },
+    "IT01V1502674273-[lastPacketReceivedTimestamp]": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[\"10/23/2026, 7:21:42 PM\",\"10/23/2026, 7:21:43 PM\"]"
+    },
+    "IT01V1502674273-timestamp": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[1792808502967.242,1792808503976.749]"
+    },
+    "IT01V2664878772-bytesReceived": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[86173,343117]"
+    },
+    "IT01V2664878772-codecId": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[\"CIT01_96\",\"CIT01_96\"]"
+    },
+    "IT01V2664878772-decoderImplementation": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[\"libvpx\",\"libvpx\"]"
+    },
+    "IT01V2664878772-firCount": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0]"
+    },
+    "IT01V2664878772-frameHeight": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[720,720]"
+    },
+    "IT01V2664878772-frameWidth": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[1280,1280]"
+    },
+    "IT01V2664878772-framesAssembledFromMultiplePackets": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[1,35]"
+    },
+    "IT01V2664878772-framesDecoded": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[2,37]"
+    },
+    "IT01V2664878772-framesDropped": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[4,4]"
+    },
+    "IT01V2664878772-framesPerSecond": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[8,34]"
+    },
+    "IT01V2664878772-framesReceived": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[2,35]"
+    },
+    "IT01V2664878772-freezeCount": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0]"
+    },
+    "IT01V2664878772-headerBytesReceived": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[936,3732]"
+    },
+    "IT01V2664878772-jitter": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0.013,0.011]"
+    },
+    "IT01V2664878772-jitterBufferDelay": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0.008289999999999999,0.9989739999999999]"
+    },
+    "IT01V2664878772-jitterBufferEmittedCount": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[2,38]"
+    },
+    "IT01V2664878772-jitterBufferMinimumDelay": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0.022354,1.3514439999999999]"
+    },
+    "IT01V2664878772-jitterBufferTargetDelay": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0.022354,1.3514439999999999]"
+    },
+    "IT01V2664878772-keyFramesDecoded": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[1,1]"
+    },
+    "IT01V2664878772-kind": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[\"video\",\"video\"]"
+    },
+    "IT01V2664878772-lastPacketReceivedTimestamp": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[1792808502937.9531,1792808503961.824]"
+    },
+    "IT01V2664878772-mid": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[2,2]"
+    },
+    "IT01V2664878772-minPlayoutDelay": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0]"
+    },
+    "IT01V2664878772-nackCount": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[1,1]"
+    },
+    "IT01V2664878772-packetsLost": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[3,3]"
+    },
+    "IT01V2664878772-packetsReceived": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[78,311]"
+    },
+    "IT01V2664878772-packetsReceivedWithCe": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0]"
+    },
+    "IT01V2664878772-packetsReceivedWithEct1": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0]"
+    },
+    "IT01V2664878772-pauseCount": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0]"
+    },
+    "IT01V2664878772-pliCount": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[2,2]"
+    },
+    "IT01V2664878772-powerEfficientDecoder": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[false,false]"
+    },
+    "IT01V2664878772-qpSum": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[193,785]"
+    },
+    "IT01V2664878772-rtxSsrc": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[4024728673,4024728673]"
+    },
+    "IT01V2664878772-ssrc": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[2664878772,2664878772]"
+    },
+    "IT01V2664878772-totalAssemblyTime": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0.002201,0.261569]"
+    },
+    "IT01V2664878772-totalDecodeTime": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0.004755,0.063528]"
+    },
+    "IT01V2664878772-totalFreezesDuration": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0]"
+    },
+    "IT01V2664878772-totalInterFrameDelay": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0.069,1.226]"
+    },
+    "IT01V2664878772-totalPausesDuration": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0,0]"
+    },
+    "IT01V2664878772-totalProcessingDelay": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0.013179999999999999,1.0504609999999999]"
+    },
+    "IT01V2664878772-totalSquaredInterFrameDelay": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0.0047610000000000005,0.07709199999999997]"
+    },
+    "IT01V2664878772-trackIdentifier": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[\"zkaPuxLuomeFPJIa\",\"zkaPuxLuomeFPJIa\"]"
+    },
+    "IT01V2664878772-transportId": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[\"T01\",\"T01\"]"
+    },
+    "IT01V2664878772-type": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[\"inbound-rtp\",\"inbound-rtp\"]"
+    },
+    "IT01V2664878772-[framesReceived-framesDecoded-framesDropped]": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[-4,-6]"
+    },
+    "IT01V2664878772-[codec]": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[\"VP8 (96)\",\"VP8 (96)\"]"
+    },
+    "IT01V2664878772-[lastPacketReceivedTimestamp]": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[\"10/23/2026, 7:21:42 PM\",\"10/23/2026, 7:21:43 PM\"]"
+    },
+    "IT01V2664878772-timestamp": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[1792808502967.242,1792808503976.749]"
+    },
+    "CFC2:C7:56:95:46:48:1A:72:09:D9:3D:C1:37:26:C7:46:D9:A4:17:49:EC:18:53:FA:DF:02:3C:F6:39:70:CD:0B-base64Certificate": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "certificate",
+     "values": "[\"MIIBMTCB16ADAgECAhEByO/wmLw/5ZPBGzok+72SrjAKBggqhkjOPQQDAjARMQ8wDQYDVQQDEwZXZWJSVEMwHhcNMjYxMDI0MDIyMTM4WhcNMjYxMDMxMDIyMTM4WjARMQ8wDQYDVQQDEwZXZWJSVEMwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATih+b/5VxT/fK46NrzynVOI1Gb4ZKXBZyUOTJgyEZ4XyQKXuDmjPtSZtY4ixxj3C7QAX8U8R3ThgK8NcC1QjbPoxAwDjAMBgNVHRMBAf8EAjAAMAoGCCqGSM49BAMCA0kAMEYCIQDZrTIOwTqFQmh7yPc5Mp78JwvLsuGc29DFSiZ6fEymfQIhAOHQhoGCz4/yxIxXzB/NHek4Ksl8nekQIhzRXfdangv1\",\"MIIBMTCB16ADAgECAhEByO/wmLw/5ZPBGzok+72SrjAKBggqhkjOPQQDAjARMQ8wDQYDVQQDEwZXZWJSVEMwHhcNMjYxMDI0MDIyMTM4WhcNMjYxMDMxMDIyMTM4WjARMQ8wDQYDVQQDEwZXZWJSVEMwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATih+b/5VxT/fK46NrzynVOI1Gb4ZKXBZyUOTJgyEZ4XyQKXuDmjPtSZtY4ixxj3C7QAX8U8R3ThgK8NcC1QjbPoxAwDjAMBgNVHRMBAf8EAjAAMAoGCCqGSM49BAMCA0kAMEYCIQDZrTIOwTqFQmh7yPc5Mp78JwvLsuGc29DFSiZ6fEymfQIhAOHQhoGCz4/yxIxXzB/NHek4Ksl8nekQIhzRXfdangv1\"]"
+    },
+    "CFC2:C7:56:95:46:48:1A:72:09:D9:3D:C1:37:26:C7:46:D9:A4:17:49:EC:18:53:FA:DF:02:3C:F6:39:70:CD:0B-fingerprint": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "certificate",
+     "values": "[\"C2:C7:56:95:46:48:1A:72:09:D9:3D:C1:37:26:C7:46:D9:A4:17:49:EC:18:53:FA:DF:02:3C:F6:39:70:CD:0B\",\"C2:C7:56:95:46:48:1A:72:09:D9:3D:C1:37:26:C7:46:D9:A4:17:49:EC:18:53:FA:DF:02:3C:F6:39:70:CD:0B\"]"
+    },
+    "CFC2:C7:56:95:46:48:1A:72:09:D9:3D:C1:37:26:C7:46:D9:A4:17:49:EC:18:53:FA:DF:02:3C:F6:39:70:CD:0B-fingerprintAlgorithm": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "certificate",
+     "values": "[\"sha-256\",\"sha-256\"]"
+    },
+    "CFC2:C7:56:95:46:48:1A:72:09:D9:3D:C1:37:26:C7:46:D9:A4:17:49:EC:18:53:FA:DF:02:3C:F6:39:70:CD:0B-type": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "certificate",
+     "values": "[\"certificate\",\"certificate\"]"
+    },
+    "CFC2:C7:56:95:46:48:1A:72:09:D9:3D:C1:37:26:C7:46:D9:A4:17:49:EC:18:53:FA:DF:02:3C:F6:39:70:CD:0B-timestamp": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "certificate",
+     "values": "[1792808502967.242,1792808503976.749]"
+    },
+    "CIT01_125_level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f-clockRate": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "codec",
+     "values": "[90000,90000]"
+    },
+    "CIT01_125_level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f-mimeType": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "codec",
+     "values": "[\"video/H264\",\"video/H264\"]"
+    },
+    "CIT01_125_level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f-payloadType": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "codec",
+     "values": "[125,125]"
+    },
+    "CIT01_125_level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f-sdpFmtpLine": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "codec",
+     "values": "[\"level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\",\"level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\"]"
+    },
+    "CIT01_125_level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f-transportId": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "codec",
+     "values": "[\"T01\",\"T01\"]"
+    },
+    "CIT01_125_level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f-type": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "codec",
+     "values": "[\"codec\",\"codec\"]"
+    },
+    "CIT01_125_level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f-timestamp": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "codec",
+     "values": "[1792808502967.242,1792808503976.749]"
+    },
+    "CIT01_96-clockRate": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "codec",
+     "values": "[90000,90000]"
+    },
+    "CIT01_96-mimeType": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "codec",
+     "values": "[\"video/VP8\",\"video/VP8\"]"
+    },
+    "CIT01_96-payloadType": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "codec",
+     "values": "[96,96]"
+    },
+    "CIT01_96-transportId": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "codec",
+     "values": "[\"T01\",\"T01\"]"
+    },
+    "CIT01_96-type": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "codec",
+     "values": "[\"codec\",\"codec\"]"
+    },
+    "CIT01_96-timestamp": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "codec",
+     "values": "[1792808502967.242,1792808503976.749]"
+    },
+    "CP8vz1xcyi_UpBcdccE-availableOutgoingBitrate": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "candidate-pair",
+     "values": "[300000,300000]"
+    },
+    "T01-dtlsCipher": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "transport",
+     "values": "[\"TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256\",\"TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256\"]"
+    },
+    "T01-remoteCertificateId": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "transport",
+     "values": "[\"CFC2:C7:56:95:46:48:1A:72:09:D9:3D:C1:37:26:C7:46:D9:A4:17:49:EC:18:53:FA:DF:02:3C:F6:39:70:CD:0B\",\"CFC2:C7:56:95:46:48:1A:72:09:D9:3D:C1:37:26:C7:46:D9:A4:17:49:EC:18:53:FA:DF:02:3C:F6:39:70:CD:0B\"]"
+    },
+    "T01-srtpCipher": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "transport",
+     "values": "[\"SRTP_AES128_CM_HMAC_SHA1_80\",\"SRTP_AES128_CM_HMAC_SHA1_80\"]"
+    },
+    "T01-tlsVersion": {
+     "startTime": "2026-10-24T02:21:42.967Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "transport",
+     "values": "[\"FEFD\",\"FEFD\"]"
+    },
+    "IT01V1502674273-remoteId": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[\"ROV1502674273\"]"
+    },
+    "IT01V1502674273-[bytesReceived_in_bits/s]": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[4559112]"
+    },
+    "IT01V1502674273-[headerBytesReceived_in_bits/s]": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[48023]"
+    },
+    "IT01V1502674273-[framesReceived/s]": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[30.708056052069423]"
+    },
+    "IT01V1502674273-[framesDecoded/s]": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[30.708056052069423]"
+    },
+    "IT01V1502674273-[keyFramesDecoded/s]": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0]"
+    },
+    "IT01V1502674273-[totalDecodeTime/framesDecoded_in_ms]": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0.5521612903225807]"
+    },
+    "IT01V1502674273-[totalInterFrameDelay/framesDecoded_in_ms]": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[32.74193548387097]"
+    },
+    "IT01V1502674273-[interFrameDelayStDev_in_ms]": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[11.242109037397743]"
+    },
+    "IT01V1502674273-[jitterBufferDelay/jitterBufferEmittedCount_in_ms]": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[24.988838709677417]"
+    },
+    "IT01V1502674273-[jitterBufferTargetDelay/jitterBufferEmittedCount_in_ms]": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[73.82177419354838]"
+    },
+    "IT01V1502674273-[jitterBufferMinimumDelay/jitterBufferEmittedCount_in_ms]": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[73.82177419354838]"
+    },
+    "IT01V1502674273-[totalProcessingDelay/jitterBufferEmittedCount_in_ms]": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[25.589774193548386]"
+    },
+    "IT01V1502674273-[totalAssemblyTime/framesAssembledFromMultiplePackets_in_ms]": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[2.202935483870968]"
+    },
+    "IT01V2664878772-remoteId": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[\"ROV2664878772\"]"
+    },
+    "IT01V2664878772-retransmittedBytesReceived": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[3522]"
+    },
+    "IT01V2664878772-retransmittedPacketsReceived": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[3]"
+    },
+    "IT01V2664878772-[bytesReceived_in_bits/s]": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[2036194]"
+    },
+    "IT01V2664878772-[headerBytesReceived_in_bits/s]": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[22157]"
+    },
+    "IT01V2664878772-[framesReceived/s]": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[32.68922095865455]"
+    },
+    "IT01V2664878772-[framesDecoded/s]": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[34.67038586523967]"
+    },
+    "IT01V2664878772-[keyFramesDecoded/s]": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[0]"
+    },
+    "IT01V2664878772-[totalDecodeTime/framesDecoded_in_ms]": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[1.6792285714285713]"
+    },
+    "IT01V2664878772-[totalInterFrameDelay/framesDecoded_in_ms]": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[33.057142857142864]"
+    },
+    "IT01V2664878772-[interFrameDelayStDev_in_ms]": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[31.20617416670054]"
+    },
+    "IT01V2664878772-[qpSum/framesDecoded]": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[16.914285714285715]"
+    },
+    "IT01V2664878772-[jitterBufferDelay/jitterBufferEmittedCount_in_ms]": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[27.519]"
+    },
+    "IT01V2664878772-[jitterBufferTargetDelay/jitterBufferEmittedCount_in_ms]": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[36.91916666666666]"
+    },
+    "IT01V2664878772-[jitterBufferMinimumDelay/jitterBufferEmittedCount_in_ms]": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[36.91916666666666]"
+    },
+    "IT01V2664878772-[totalProcessingDelay/jitterBufferEmittedCount_in_ms]": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[28.81336111111111]"
+    },
+    "IT01V2664878772-[totalAssemblyTime/framesAssembledFromMultiplePackets_in_ms]": {
+     "startTime": "2026-10-24T02:21:43.976Z",
+     "endTime": "2026-10-24T02:21:43.976Z",
+     "statsType": "inbound-rtp",
+     "values": "[7.6284705882352934]"
+    },
+    "ROV1502674273-bytesSent": {
+     "startTime": "2026-10-24T02:21:43.280Z",
+     "endTime": "2026-10-24T02:21:43.280Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[357953]"
+    },
+    "ROV1502674273-codecId": {
+     "startTime": "2026-10-24T02:21:43.280Z",
+     "endTime": "2026-10-24T02:21:43.280Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[\"CIT01_125_level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\"]"
+    },
+    "ROV1502674273-kind": {
+     "startTime": "2026-10-24T02:21:43.280Z",
+     "endTime": "2026-10-24T02:21:43.280Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[\"video\"]"
+    },
+    "ROV1502674273-localId": {
+     "startTime": "2026-10-24T02:21:43.280Z",
+     "endTime": "2026-10-24T02:21:43.280Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[\"IT01V1502674273\"]"
+    },
+    "ROV1502674273-packetsSent": {
+     "startTime": "2026-10-24T02:21:43.280Z",
+     "endTime": "2026-10-24T02:21:43.280Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[315]"
+    },
+    "ROV1502674273-remoteTimestamp": {
+     "startTime": "2026-10-24T02:21:43.280Z",
+     "endTime": "2026-10-24T02:21:43.280Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[1792808503300.121]"
+    },
+    "ROV1502674273-reportsSent": {
+     "startTime": "2026-10-24T02:21:43.280Z",
+     "endTime": "2026-10-24T02:21:43.280Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[1]"
+    },
+    "ROV1502674273-roundTripTimeMeasurements": {
+     "startTime": "2026-10-24T02:21:43.280Z",
+     "endTime": "2026-10-24T02:21:43.280Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[0]"
+    },
+    "ROV1502674273-ssrc": {
+     "startTime": "2026-10-24T02:21:43.280Z",
+     "endTime": "2026-10-24T02:21:43.280Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[1502674273]"
+    },
+    "ROV1502674273-totalRoundTripTime": {
+     "startTime": "2026-10-24T02:21:43.280Z",
+     "endTime": "2026-10-24T02:21:43.280Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[0]"
+    },
+    "ROV1502674273-transportId": {
+     "startTime": "2026-10-24T02:21:43.280Z",
+     "endTime": "2026-10-24T02:21:43.280Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[\"T01\"]"
+    },
+    "ROV1502674273-type": {
+     "startTime": "2026-10-24T02:21:43.280Z",
+     "endTime": "2026-10-24T02:21:43.280Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[\"remote-outbound-rtp\"]"
+    },
+    "ROV1502674273-[remoteTimestamp]": {
+     "startTime": "2026-10-24T02:21:43.280Z",
+     "endTime": "2026-10-24T02:21:43.280Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[\"10/23/2026, 7:21:43 PM\"]"
+    },
+    "ROV1502674273-timestamp": {
+     "startTime": "2026-10-24T02:21:43.280Z",
+     "endTime": "2026-10-24T02:21:43.280Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[1792808503280.111]"
+    },
+    "ROV2664878772-bytesSent": {
+     "startTime": "2026-10-24T02:21:43.280Z",
+     "endTime": "2026-10-24T02:21:43.280Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[151217]"
+    },
+    "ROV2664878772-codecId": {
+     "startTime": "2026-10-24T02:21:43.280Z",
+     "endTime": "2026-10-24T02:21:43.280Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[\"CIT01_96\"]"
+    },
+    "ROV2664878772-kind": {
+     "startTime": "2026-10-24T02:21:43.280Z",
+     "endTime": "2026-10-24T02:21:43.280Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[\"video\"]"
+    },
+    "ROV2664878772-localId": {
+     "startTime": "2026-10-24T02:21:43.280Z",
+     "endTime": "2026-10-24T02:21:43.280Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[\"IT01V2664878772\"]"
+    },
+    "ROV2664878772-packetsSent": {
+     "startTime": "2026-10-24T02:21:43.280Z",
+     "endTime": "2026-10-24T02:21:43.280Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[137]"
+    },
+    "ROV2664878772-remoteTimestamp": {
+     "startTime": "2026-10-24T02:21:43.280Z",
+     "endTime": "2026-10-24T02:21:43.280Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[1792808503300.121]"
+    },
+    "ROV2664878772-reportsSent": {
+     "startTime": "2026-10-24T02:21:43.280Z",
+     "endTime": "2026-10-24T02:21:43.280Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[1]"
+    },
+    "ROV2664878772-roundTripTimeMeasurements": {
+     "startTime": "2026-10-24T02:21:43.280Z",
+     "endTime": "2026-10-24T02:21:43.280Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[0]"
+    },
+    "ROV2664878772-ssrc": {
+     "startTime": "2026-10-24T02:21:43.280Z",
+     "endTime": "2026-10-24T02:21:43.280Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[2664878772]"
+    },
+    "ROV2664878772-totalRoundTripTime": {
+     "startTime": "2026-10-24T02:21:43.280Z",
+     "endTime": "2026-10-24T02:21:43.280Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[0]"
+    },
+    "ROV2664878772-transportId": {
+     "startTime": "2026-10-24T02:21:43.280Z",
+     "endTime": "2026-10-24T02:21:43.280Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[\"T01\"]"
+    },
+    "ROV2664878772-type": {
+     "startTime": "2026-10-24T02:21:43.280Z",
+     "endTime": "2026-10-24T02:21:43.280Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[\"remote-outbound-rtp\"]"
+    },
+    "ROV2664878772-[remoteTimestamp]": {
+     "startTime": "2026-10-24T02:21:43.280Z",
+     "endTime": "2026-10-24T02:21:43.280Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[\"10/23/2026, 7:21:43 PM\"]"
+    },
+    "ROV2664878772-timestamp": {
+     "startTime": "2026-10-24T02:21:43.280Z",
+     "endTime": "2026-10-24T02:21:43.280Z",
+     "statsType": "remote-outbound-rtp",
+     "values": "[1792808503280.122]"
+    }
+   },
+   "updateLog": [
+    {
+     "type": "createDataChannel",
+     "value": "{\"label\":\"server-events\",\"ordered\":true,\"negotiated\":true,\"id\":0}",
+     "timestamp": 1792808498467.077
+    },
+    {
+     "type": "createOffer",
+     "value": "{\"voiceActivityDetection\":true}",
+     "timestamp": 1792808498467.092
+    },
+    {
+     "type": "onnegotiationneeded",
+     "value": "",
+     "timestamp": 1792808498469.829
+    },
+    {
+     "type": "createOfferOnSuccess",
+     "value": "{\"type\":\"offer\",\"sdp\":\"v=0\\r\\no=- 9112676360362210452 2 IN IP4 127.0.0.1\\r\\ns=-\\r\\nt=0 0\\r\\na=group:BUNDLE 0\\r\\na=extmap-allow-mixed\\r\\na=msid-semantic: WMS\\r\\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\\r\\nc=IN IP4 0.0.0.0\\r\\na=ice-ufrag:/cXe\\r\\na=ice-pwd:jNGuxrPLTgUzCwOcyzAB2VXf\\r\\na=ice-options:trickle\\r\\na=fingerprint:sha-256 10:87:FB:4C:6B:30:89:BC:CF:92:90:98:84:DE:C4:7E:20:2A:8C:41:E3:1A:0A:2F:A2:A7:E9:06:88:B5:DC:D7\\r\\na=setup:actpass\\r\\na=mid:0\\r\\na=sctp-port:5000\\r\\na=max-message-size:262144\\r\\n\"}",
+     "timestamp": 1792808498469.855
+    },
+    {
+     "type": "setLocalDescription",
+     "value": "{\"type\":\"offer\",\"sdp\":\"v=0\\r\\no=- 9112676360362210452 2 IN IP4 127.0.0.1\\r\\ns=-\\r\\nt=0 0\\r\\na=group:BUNDLE 0\\r\\na=extmap-allow-mixed\\r\\na=msid-semantic: WMS\\r\\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\\r\\nc=IN IP4 0.0.0.0\\r\\na=ice-ufrag:/cXe\\r\\na=ice-pwd:jNGuxrPLTgUzCwOcyzAB2VXf\\r\\na=ice-options:trickle\\r\\na=fingerprint:sha-256 10:87:FB:4C:6B:30:89:BC:CF:92:90:98:84:DE:C4:7E:20:2A:8C:41:E3:1A:0A:2F:A2:A7:E9:06:88:B5:DC:D7\\r\\na=setup:actpass\\r\\na=mid:0\\r\\na=sctp-port:5000\\r\\na=max-message-size:262144\\r\\n\"}",
+     "timestamp": 1792808498470.068
+    },
+    {
+     "type": "onsignalingstatechange",
+     "value": "\"have-local-offer\"",
+     "timestamp": 1792808498471.261
+    },
+    {
+     "type": "setLocalDescriptionOnSuccess",
+     "value": "",
+     "timestamp": 1792808498471.522
+    },
+    {
+     "type": "onicegatheringstatechange",
+     "value": "\"gathering\"",
+     "timestamp": 1792808498471.681
+    },
+    {
+     "type": "onicecandidate",
+     "value": "{\"sdpMid\":\"0\",\"sdpMLineIndex\":0,\"candidate\":\"candidate:2472419105 1 udp 2113937151 be710ee5-5c18-477e-90e9-d49820cc6eda.local 60390 typ host generation 0 ufrag /cXe network-cost 999\"}",
+     "timestamp": 1792808498472.977
+    },
+    {
+     "type": "onicecandidate",
+     "value": "{\"sdpMid\":\"0\",\"sdpMLineIndex\":0,\"candidate\":\"candidate:991566405 1 udp 1677729535 172.92.132.4 60390 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag /cXe network-cost 999\",\"url\":\"stun:stun.cloudflare.com:3478\"}",
+     "timestamp": 1792808498475.977
+    },
+    {
+     "type": "onicecandidateerror",
+     "value": "{\"url\":\"stun:stun.cloudflare.com:3478\",\"address\":\"[0:0:0:x:x:x:x:x]\",\"port\":60391,\"host_candidate\":\"[0:0:0:x:x:x:x:x]:60391\",\"error_text\":\"STUN host lookup received error.\",\"error_code\":701}",
+     "timestamp": 1792808498482.475
+    },
+    {
+     "type": "onicegatheringstatechange",
+     "value": "\"complete\"",
+     "timestamp": 1792808498586.479
+    },
+    {
+     "type": "setRemoteDescription",
+     "value": "{\"type\":\"answer\",\"sdp\":\"v=0\\r\\no=- 7409572480665005477 1792808498 IN IP4 0.0.0.0\\r\\ns=-\\r\\nt=0 0\\r\\na=msid-semantic:WMS*\\r\\na=fingerprint:sha-256 C2:C7:56:95:46:48:1A:72:09:D9:3D:C1:37:26:C7:46:D9:A4:17:49:EC:18:53:FA:DF:02:3C:F6:39:70:CD:0B\\r\\na=ice-lite\\r\\na=extmap-allow-mixed\\r\\na=group:BUNDLE 0\\r\\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\\r\\nc=IN IP4 0.0.0.0\\r\\na=setup:passive\\r\\na=mid:0\\r\\na=sendrecv\\r\\na=sctp-port:5000\\r\\na=ice-ufrag:2c5d15332aca0b080cdcaeaab912837acc8841beb8597afac0117fecdf10ebe8\\r\\na=ice-pwd:DESYZVWAmCsLyEeSDjRfmeagXhnCVXFk\\r\\na=candidate:513273236 1 udp 2130706431 141.101.90.0 1473 typ host\\r\\na=candidate:513273236 2 udp 2130706431 141.101.90.0 1473 typ host\\r\\na=end-of-candidates\\r\\n\"}",
+     "timestamp": 1792808498941.749
+    },
+    {
+     "type": "oniceconnectionstatechange",
+     "value": "\"checking\"",
+     "timestamp": 1792808498942.233
+    },
+    {
+     "type": "onsignalingstatechange",
+     "value": "\"stable\"",
+     "timestamp": 1792808498942.339
+    },
+    {
+     "type": "setRemoteDescriptionOnSuccess",
+     "value": "",
+     "timestamp": 1792808498942.365
+    },
+    {
+     "type": "onconnectionstatechange",
+     "value": "\"connecting\"",
+     "timestamp": 1792808498942.37
+    },
+    {
+     "type": "oniceconnectionstatechange",
+     "value": "\"connected\"",
+     "timestamp": 1792808499264.369
+    },
+    {
+     "type": "onconnectionstatechange",
+     "value": "\"connected\"",
+     "timestamp": 1792808501971.227
+    },
+    {
+     "type": "setRemoteDescription",
+     "value": "{\"type\":\"offer\",\"sdp\":\"v=0\\r\\no=- 1235583415624729295 1792808500 IN IP4 0.0.0.0\\r\\ns=-\\r\\nt=0 0\\r\\na=msid-semantic:WMS*\\r\\na=fingerprint:sha-256 C2:C7:56:95:46:48:1A:72:09:D9:3D:C1:37:26:C7:46:D9:A4:17:49:EC:18:53:FA:DF:02:3C:F6:39:70:CD:0B\\r\\na=ice-lite\\r\\na=extmap-allow-mixed\\r\\na=group:BUNDLE 0 1 2\\r\\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\\r\\nc=IN IP4 0.0.0.0\\r\\na=setup:actpass\\r\\na=mid:0\\r\\na=sendrecv\\r\\na=sctp-port:5000\\r\\na=ice-ufrag:2c5d15332aca0b080cdcaeaab912837acc8841beb8597afac0117fecdf10ebe8\\r\\na=ice-pwd:DESYZVWAmCsLyEeSDjRfmeagXhnCVXFk\\r\\na=candidate:513273236 1 udp 2130706431 141.101.90.0 1473 typ host\\r\\na=candidate:513273236 2 udp 2130706431 141.101.90.0 1473 typ host\\r\\na=end-of-candidates\\r\\nm=video 9 UDP/TLS/RTP/SAVPF 125 37 98 36 96 35 116 117 45 46\\r\\nc=IN IP4 0.0.0.0\\r\\na=setup:actpass\\r\\na=mid:1\\r\\na=ice-ufrag:2c5d15332aca0b080cdcaeaab912837acc8841beb8597afac0117fecdf10ebe8\\r\\na=ice-pwd:DESYZVWAmCsLyEeSDjRfmeagXhnCVXFk\\r\\na=rtcp-mux\\r\\na=rtcp-rsize\\r\\na=rtpmap:125 H264/90000\\r\\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\\r\\na=rtcp-fb:125 goog-remb \\r\\na=rtcp-fb:125 ccm fir\\r\\na=rtcp-fb:125 nack \\r\\na=rtcp-fb:125 nack pli\\r\\na=rtcp-fb:125 transport-cc \\r\\na=rtpmap:37 rtx/90000\\r\\na=fmtp:37 apt=125\\r\\na=rtcp-fb:37 transport-cc \\r\\na=rtpmap:98 VP9/90000\\r\\na=fmtp:98 profile-id=0\\r\\na=rtcp-fb:98 goog-remb \\r\\na=rtcp-fb:98 ccm fir\\r\\na=rtcp-fb:98 nack \\r\\na=rtcp-fb:98 nack pli\\r\\na=rtcp-fb:98 transport-cc \\r\\na=rtpmap:36 rtx/90000\\r\\na=fmtp:36 apt=98\\r\\na=rtcp-fb:36 transport-cc \\r\\na=rtpmap:96 VP8/90000\\r\\na=rtcp-fb:96 goog-remb \\r\\na=rtcp-fb:96 ccm fir\\r\\na=rtcp-fb:96 nack \\r\\na=rtcp-fb:96 nack pli\\r\\na=rtcp-fb:96 transport-cc \\r\\na=rtpmap:35 rtx/90000\\r\\na=fmtp:35 apt=96\\r\\na=rtcp-fb:35 transport-cc \\r\\na=rtpmap:116 H265/90000\\r\\na=rtcp-fb:116 goog-remb \\r\\na=rtcp-fb:116 ccm fir\\r\\na=rtcp-fb:116 nack \\r\\na=rtcp-fb:116 nack pli\\r\\na=rtcp-fb:116 transport-cc \\r\\na=rtpmap:117 rtx/90000\\r\\na=fmtp:117 apt=116\\r\\na=rtcp-fb:117 transport-cc \\r\\na=rtpmap:45 AV1/90000\\r\\na=rtcp-fb:45 goog-remb \\r\\na=rtcp-fb:45 ccm fir\\r\\na=rtcp-fb:45 nack \\r\\na=rtcp-fb:45 nack pli\\r\\na=rtcp-fb:45 transport-cc \\r\\na=rtpmap:46 rtx/90000\\r\\na=fmtp:46 apt=45\\r\\na=rtcp-fb:46 transport-cc \\r\\na=extmap:1 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\\r\\na=extmap:2 urn:ietf:params:rtp-hdrext:sdes:mid\\r\\na=extmap:3 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id\\r\\na=extmap:4 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id\\r\\na=ssrc-group:FID 1502674273 1500438859\\r\\na=ssrc:1502674273 cname:JrrIhcfP\\r\\na=ssrc:1502674273 msid:JrrIhcfP czQIKffERJAyOAzg\\r\\na=ssrc:1502674273 mslabel:JrrIhcfP\\r\\na=ssrc:1502674273 label:czQIKffERJAyOAzg\\r\\na=ssrc:1500438859 cname:JrrIhcfP\\r\\na=ssrc:1500438859 msid:JrrIhcfP czQIKffERJAyOAzg\\r\\na=ssrc:1500438859 mslabel:JrrIhcfP\\r\\na=ssrc:1500438859 label:czQIKffERJAyOAzg\\r\\na=msid:JrrIhcfP czQIKffERJAyOAzg\\r\\na=ssrc:1500438859 cname:JrrIhcfP\\r\\na=ssrc:1500438859 msid:JrrIhcfP czQIKffERJAyOAzg\\r\\na=ssrc:1500438859 mslabel:JrrIhcfP\\r\\na=ssrc:1500438859 label:czQIKffERJAyOAzg\\r\\na=sendonly\\r\\nm=video 9 UDP/TLS/RTP/SAVPF 125 37 98 36 96 35 116 117 45 46\\r\\nc=IN IP4 0.0.0.0\\r\\na=setup:actpass\\r\\na=mid:2\\r\\na=ice-ufrag:2c5d15332aca0b080cdcaeaab912837acc8841beb8597afac0117fecdf10ebe8\\r\\na=ice-pwd:DESYZVWAmCsLyEeSDjRfmeagXhnCVXFk\\r\\na=rtcp-mux\\r\\na=rtcp-rsize\\r\\na=rtpmap:125 H264/90000\\r\\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\\r\\na=rtcp-fb:125 goog-remb \\r\\na=rtcp-fb:125 ccm fir\\r\\na=rtcp-fb:125 nack \\r\\na=rtcp-fb:125 nack pli\\r\\na=rtcp-fb:125 transport-cc \\r\\na=rtpmap:37 rtx/90000\\r\\na=fmtp:37 apt=125\\r\\na=rtcp-fb:37 transport-cc \\r\\na=rtpmap:98 VP9/90000\\r\\na=fmtp:98 profile-id=0\\r\\na=rtcp-fb:98 goog-remb \\r\\na=rtcp-fb:98 ccm fir\\r\\na=rtcp-fb:98 nack \\r\\na=rtcp-fb:98 nack pli\\r\\na=rtcp-fb:98 transport-cc \\r\\na=rtpmap:36 rtx/90000\\r\\na=fmtp:36 apt=98\\r\\na=rtcp-fb:36 transport-cc \\r\\na=rtpmap:96 VP8/90000\\r\\na=rtcp-fb:96 goog-remb \\r\\na=rtcp-fb:96 ccm fir\\r\\na=rtcp-fb:96 nack \\r\\na=rtcp-fb:96 nack pli\\r\\na=rtcp-fb:96 transport-cc \\r\\na=rtpmap:35 rtx/90000\\r\\na=fmtp:35 apt=96\\r\\na=rtcp-fb:35 transport-cc \\r\\na=rtpmap:116 H265/90000\\r\\na=rtcp-fb:116 goog-remb \\r\\na=rtcp-fb:116 ccm fir\\r\\na=rtcp-fb:116 nack \\r\\na=rtcp-fb:116 nack pli\\r\\na=rtcp-fb:116 transport-cc \\r\\na=rtpmap:117 rtx/90000\\r\\na=fmtp:117 apt=116\\r\\na=rtcp-fb:117 transport-cc \\r\\na=rtpmap:45 AV1/90000\\r\\na=rtcp-fb:45 goog-remb \\r\\na=rtcp-fb:45 ccm fir\\r\\na=rtcp-fb:45 nack \\r\\na=rtcp-fb:45 nack pli\\r\\na=rtcp-fb:45 transport-cc \\r\\na=rtpmap:46 rtx/90000\\r\\na=fmtp:46 apt=45\\r\\na=rtcp-fb:46 transport-cc \\r\\na=extmap:2 urn:ietf:params:rtp-hdrext:sdes:mid\\r\\na=extmap:3 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id\\r\\na=extmap:4 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id\\r\\na=extmap:1 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\\r\\na=ssrc-group:FID 2664878772 4024728673\\r\\na=ssrc:2664878772 cname:gpGzsoKJ\\r\\na=ssrc:2664878772 msid:gpGzsoKJ zkaPuxLuomeFPJIa\\r\\na=ssrc:2664878772 mslabel:gpGzsoKJ\\r\\na=ssrc:2664878772 label:zkaPuxLuomeFPJIa\\r\\na=ssrc:4024728673 cname:gpGzsoKJ\\r\\na=ssrc:4024728673 msid:gpGzsoKJ zkaPuxLuomeFPJIa\\r\\na=ssrc:4024728673 mslabel:gpGzsoKJ\\r\\na=ssrc:4024728673 label:zkaPuxLuomeFPJIa\\r\\na=msid:gpGzsoKJ zkaPuxLuomeFPJIa\\r\\na=ssrc:4024728673 cname:gpGzsoKJ\\r\\na=ssrc:4024728673 msid:gpGzsoKJ zkaPuxLuomeFPJIa\\r\\na=ssrc:4024728673 mslabel:gpGzsoKJ\\r\\na=ssrc:4024728673 label:zkaPuxLuomeFPJIa\\r\\na=sendonly\\r\\n\"}",
+     "timestamp": 1792808502460.255
+    },
+    {
+     "type": "onsignalingstatechange",
+     "value": "\"have-remote-offer\"",
+     "timestamp": 1792808502462.004
+    },
+    {
+     "type": "transceiverAdded",
+     "value": "{\"mid\":\"1\",\"kind\":\"video\",\"sender\":{\"track\":null,\"streams\":[],\"encodings\":[{\"active\":true}]},\"receiver\":{\"track\":\"czQIKffERJAyOAzg\",\"streams\":[\"JrrIhcfP\"]},\"direction\":\"recvonly\",\"currentDirection\":null,\"reason\":\"setRemoteDescription\",\"transceiverIndex\":0}",
+     "timestamp": 1792808502462.133
+    },
+    {
+     "type": "transceiverAdded",
+     "value": "{\"mid\":\"2\",\"kind\":\"video\",\"sender\":{\"track\":null,\"streams\":[],\"encodings\":[{\"active\":true}]},\"receiver\":{\"track\":\"zkaPuxLuomeFPJIa\",\"streams\":[\"gpGzsoKJ\"]},\"direction\":\"recvonly\",\"currentDirection\":null,\"reason\":\"setRemoteDescription\",\"transceiverIndex\":1}",
+     "timestamp": 1792808502462.202
+    },
+    {
+     "type": "ontrack",
+     "value": "{\"kind\":\"video\",\"id\":\"czQIKffERJAyOAzg\",\"label\":\"remote video\",\"streams\":[\"JrrIhcfP\"]}",
+     "timestamp": 1792808502462.405
+    },
+    {
+     "type": "ontrack",
+     "value": "{\"kind\":\"video\",\"id\":\"zkaPuxLuomeFPJIa\",\"label\":\"remote video\",\"streams\":[\"gpGzsoKJ\"]}",
+     "timestamp": 1792808502462.534
+    },
+    {
+     "type": "setRemoteDescriptionOnSuccess",
+     "value": "",
+     "timestamp": 1792808502462.552
+    },
+    {
+     "type": "createAnswer",
+     "value": "{\"voiceActivityDetection\":true}",
+     "timestamp": 1792808502463.449
+    },
+    {
+     "type": "createAnswerOnSuccess",
+     "value": "{\"type\":\"answer\",\"sdp\":\"v=0\\r\\no=- 9112676360362210452 3 IN IP4 127.0.0.1\\r\\ns=-\\r\\nt=0 0\\r\\na=group:BUNDLE 0 1 2\\r\\na=extmap-allow-mixed\\r\\na=msid-semantic: WMS\\r\\nm=application 60390 UDP/DTLS/SCTP webrtc-datachannel\\r\\nc=IN IP4 172.92.132.4\\r\\na=candidate:2472419105 1 udp 2113937151 be710ee5-5c18-477e-90e9-d49820cc6eda.local 60390 typ host generation 0 network-cost 999\\r\\na=candidate:991566405 1 udp 1677729535 172.92.132.4 60390 typ srflx raddr 0.0.0.0 rport 0 generation 0 network-cost 999\\r\\na=ice-ufrag:/cXe\\r\\na=ice-pwd:jNGuxrPLTgUzCwOcyzAB2VXf\\r\\na=ice-options:trickle\\r\\na=fingerprint:sha-256 10:87:FB:4C:6B:30:89:BC:CF:92:90:98:84:DE:C4:7E:20:2A:8C:41:E3:1A:0A:2F:A2:A7:E9:06:88:B5:DC:D7\\r\\na=setup:active\\r\\na=mid:0\\r\\na=sctp-port:5000\\r\\nm=video 9 UDP/TLS/RTP/SAVPF 125 37 98 36 96 35 45 46\\r\\nc=IN IP4 0.0.0.0\\r\\na=rtcp:9 IN IP4 0.0.0.0\\r\\na=ice-ufrag:/cXe\\r\\na=ice-pwd:jNGuxrPLTgUzCwOcyzAB2VXf\\r\\na=ice-options:trickle\\r\\na=fingerprint:sha-256 10:87:FB:4C:6B:30:89:BC:CF:92:90:98:84:DE:C4:7E:20:2A:8C:41:E3:1A:0A:2F:A2:A7:E9:06:88:B5:DC:D7\\r\\na=setup:active\\r\\na=mid:1\\r\\na=extmap:1 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\\r\\na=extmap:2 urn:ietf:params:rtp-hdrext:sdes:mid\\r\\na=extmap:3 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id\\r\\na=extmap:4 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id\\r\\na=recvonly\\r\\na=rtcp-mux\\r\\na=rtcp-rsize\\r\\na=rtpmap:125 H264/90000\\r\\na=rtcp-fb:125 goog-remb\\r\\na=rtcp-fb:125 transport-cc\\r\\na=rtcp-fb:125 ccm fir\\r\\na=rtcp-fb:125 nack\\r\\na=rtcp-fb:125 nack pli\\r\\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\\r\\na=rtpmap:37 rtx/90000\\r\\na=fmtp:37 apt=125\\r\\na=rtpmap:98 VP9/90000\\r\\na=rtcp-fb:98 goog-remb\\r\\na=rtcp-fb:98 transport-cc\\r\\na=rtcp-fb:98 ccm fir\\r\\na=rtcp-fb:98 nack\\r\\na=rtcp-fb:98 nack pli\\r\\na=fmtp:98 profile-id=0\\r\\na=rtpmap:36 rtx/90000\\r\\na=fmtp:36 apt=98\\r\\na=rtpmap:96 VP8/90000\\r\\na=rtcp-fb:96 goog-remb\\r\\na=rtcp-fb:96 transport-cc\\r\\na=rtcp-fb:96 ccm fir\\r\\na=rtcp-fb:96 nack\\r\\na=rtcp-fb:96 nack pli\\r\\na=rtpmap:35 rtx/90000\\r\\na=fmtp:35 apt=96\\r\\na=rtpmap:45 AV1/90000\\r\\na=rtcp-fb:45 goog-remb\\r\\na=rtcp-fb:45 transport-cc\\r\\na=rtcp-fb:45 ccm fir\\r\\na=rtcp-fb:45 nack\\r\\na=rtcp-fb:45 nack pli\\r\\na=fmtp:45 level-idx=5;profile=0;tier=0\\r\\na=rtpmap:46 rtx/90000\\r\\na=fmtp:46 apt=45\\r\\nm=video 9 UDP/TLS/RTP/SAVPF 125 37 98 36 96 35 45 46\\r\\nc=IN IP4 0.0.0.0\\r\\na=rtcp:9 IN IP4 0.0.0.0\\r\\na=ice-ufrag:/cXe\\r\\na=ice-pwd:jNGuxrPLTgUzCwOcyzAB2VXf\\r\\na=ice-options:trickle\\r\\na=fingerprint:sha-256 10:87:FB:4C:6B:30:89:BC:CF:92:90:98:84:DE:C4:7E:20:2A:8C:41:E3:1A:0A:2F:A2:A7:E9:06:88:B5:DC:D7\\r\\na=setup:active\\r\\na=mid:2\\r\\na=extmap:1 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\\r\\na=extmap:2 urn:ietf:params:rtp-hdrext:sdes:mid\\r\\na=extmap:3 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id\\r\\na=extmap:4 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id\\r\\na=recvonly\\r\\na=rtcp-mux\\r\\na=rtcp-rsize\\r\\na=rtpmap:125 H264/90000\\r\\na=rtcp-fb:125 goog-remb\\r\\na=rtcp-fb:125 transport-cc\\r\\na=rtcp-fb:125 ccm fir\\r\\na=rtcp-fb:125 nack\\r\\na=rtcp-fb:125 nack pli\\r\\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\\r\\na=rtpmap:37 rtx/90000\\r\\na=fmtp:37 apt=125\\r\\na=rtpmap:98 VP9/90000\\r\\na=rtcp-fb:98 goog-remb\\r\\na=rtcp-fb:98 transport-cc\\r\\na=rtcp-fb:98 ccm fir\\r\\na=rtcp-fb:98 nack\\r\\na=rtcp-fb:98 nack pli\\r\\na=fmtp:98 profile-id=0\\r\\na=rtpmap:36 rtx/90000\\r\\na=fmtp:36 apt=98\\r\\na=rtpmap:96 VP8/90000\\r\\na=rtcp-fb:96 goog-remb\\r\\na=rtcp-fb:96 transport-cc\\r\\na=rtcp-fb:96 ccm fir\\r\\na=rtcp-fb:96 nack\\r\\na=rtcp-fb:96 nack pli\\r\\na=rtpmap:35 rtx/90000\\r\\na=fmtp:35 apt=96\\r\\na=rtpmap:45 AV1/90000\\r\\na=rtcp-fb:45 goog-remb\\r\\na=rtcp-fb:45 transport-cc\\r\\na=rtcp-fb:45 ccm fir\\r\\na=rtcp-fb:45 nack\\r\\na=rtcp-fb:45 nack pli\\r\\na=fmtp:45 level-idx=5;profile=0;tier=0\\r\\na=rtpmap:46 rtx/90000\\r\\na=fmtp:46 apt=45\\r\\n\"}",
+     "timestamp": 1792808502465.676
+    },
+    {
+     "type": "setLocalDescription",
+     "value": "{\"type\":\"answer\",\"sdp\":\"v=0\\r\\no=- 9112676360362210452 3 IN IP4 127.0.0.1\\r\\ns=-\\r\\nt=0 0\\r\\na=group:BUNDLE 0 1 2\\r\\na=extmap-allow-mixed\\r\\na=msid-semantic: WMS\\r\\nm=application 60390 UDP/DTLS/SCTP webrtc-datachannel\\r\\nc=IN IP4 172.92.132.4\\r\\na=candidate:2472419105 1 udp 2113937151 be710ee5-5c18-477e-90e9-d49820cc6eda.local 60390 typ host generation 0 network-cost 999\\r\\na=candidate:991566405 1 udp 1677729535 172.92.132.4 60390 typ srflx raddr 0.0.0.0 rport 0 generation 0 network-cost 999\\r\\na=ice-ufrag:/cXe\\r\\na=ice-pwd:jNGuxrPLTgUzCwOcyzAB2VXf\\r\\na=ice-options:trickle\\r\\na=fingerprint:sha-256 10:87:FB:4C:6B:30:89:BC:CF:92:90:98:84:DE:C4:7E:20:2A:8C:41:E3:1A:0A:2F:A2:A7:E9:06:88:B5:DC:D7\\r\\na=setup:active\\r\\na=mid:0\\r\\na=sctp-port:5000\\r\\nm=video 9 UDP/TLS/RTP/SAVPF 125 37 98 36 96 35 45 46\\r\\nc=IN IP4 0.0.0.0\\r\\na=rtcp:9 IN IP4 0.0.0.0\\r\\na=ice-ufrag:/cXe\\r\\na=ice-pwd:jNGuxrPLTgUzCwOcyzAB2VXf\\r\\na=ice-options:trickle\\r\\na=fingerprint:sha-256 10:87:FB:4C:6B:30:89:BC:CF:92:90:98:84:DE:C4:7E:20:2A:8C:41:E3:1A:0A:2F:A2:A7:E9:06:88:B5:DC:D7\\r\\na=setup:active\\r\\na=mid:1\\r\\na=extmap:1 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\\r\\na=extmap:2 urn:ietf:params:rtp-hdrext:sdes:mid\\r\\na=extmap:3 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id\\r\\na=extmap:4 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id\\r\\na=recvonly\\r\\na=rtcp-mux\\r\\na=rtcp-rsize\\r\\na=rtpmap:125 H264/90000\\r\\na=rtcp-fb:125 goog-remb\\r\\na=rtcp-fb:125 transport-cc\\r\\na=rtcp-fb:125 ccm fir\\r\\na=rtcp-fb:125 nack\\r\\na=rtcp-fb:125 nack pli\\r\\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\\r\\na=rtpmap:37 rtx/90000\\r\\na=fmtp:37 apt=125\\r\\na=rtpmap:98 VP9/90000\\r\\na=rtcp-fb:98 goog-remb\\r\\na=rtcp-fb:98 transport-cc\\r\\na=rtcp-fb:98 ccm fir\\r\\na=rtcp-fb:98 nack\\r\\na=rtcp-fb:98 nack pli\\r\\na=fmtp:98 profile-id=0\\r\\na=rtpmap:36 rtx/90000\\r\\na=fmtp:36 apt=98\\r\\na=rtpmap:96 VP8/90000\\r\\na=rtcp-fb:96 goog-remb\\r\\na=rtcp-fb:96 transport-cc\\r\\na=rtcp-fb:96 ccm fir\\r\\na=rtcp-fb:96 nack\\r\\na=rtcp-fb:96 nack pli\\r\\na=rtpmap:35 rtx/90000\\r\\na=fmtp:35 apt=96\\r\\na=rtpmap:45 AV1/90000\\r\\na=rtcp-fb:45 goog-remb\\r\\na=rtcp-fb:45 transport-cc\\r\\na=rtcp-fb:45 ccm fir\\r\\na=rtcp-fb:45 nack\\r\\na=rtcp-fb:45 nack pli\\r\\na=fmtp:45 level-idx=5;profile=0;tier=0\\r\\na=rtpmap:46 rtx/90000\\r\\na=fmtp:46 apt=45\\r\\nm=video 9 UDP/TLS/RTP/SAVPF 125 37 98 36 96 35 45 46\\r\\nc=IN IP4 0.0.0.0\\r\\na=rtcp:9 IN IP4 0.0.0.0\\r\\na=ice-ufrag:/cXe\\r\\na=ice-pwd:jNGuxrPLTgUzCwOcyzAB2VXf\\r\\na=ice-options:trickle\\r\\na=fingerprint:sha-256 10:87:FB:4C:6B:30:89:BC:CF:92:90:98:84:DE:C4:7E:20:2A:8C:41:E3:1A:0A:2F:A2:A7:E9:06:88:B5:DC:D7\\r\\na=setup:active\\r\\na=mid:2\\r\\na=extmap:1 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\\r\\na=extmap:2 urn:ietf:params:rtp-hdrext:sdes:mid\\r\\na=extmap:3 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id\\r\\na=extmap:4 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id\\r\\na=recvonly\\r\\na=rtcp-mux\\r\\na=rtcp-rsize\\r\\na=rtpmap:125 H264/90000\\r\\na=rtcp-fb:125 goog-remb\\r\\na=rtcp-fb:125 transport-cc\\r\\na=rtcp-fb:125 ccm fir\\r\\na=rtcp-fb:125 nack\\r\\na=rtcp-fb:125 nack pli\\r\\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\\r\\na=rtpmap:37 rtx/90000\\r\\na=fmtp:37 apt=125\\r\\na=rtpmap:98 VP9/90000\\r\\na=rtcp-fb:98 goog-remb\\r\\na=rtcp-fb:98 transport-cc\\r\\na=rtcp-fb:98 ccm fir\\r\\na=rtcp-fb:98 nack\\r\\na=rtcp-fb:98 nack pli\\r\\na=fmtp:98 profile-id=0\\r\\na=rtpmap:36 rtx/90000\\r\\na=fmtp:36 apt=98\\r\\na=rtpmap:96 VP8/90000\\r\\na=rtcp-fb:96 goog-remb\\r\\na=rtcp-fb:96 transport-cc\\r\\na=rtcp-fb:96 ccm fir\\r\\na=rtcp-fb:96 nack\\r\\na=rtcp-fb:96 nack pli\\r\\na=rtpmap:35 rtx/90000\\r\\na=fmtp:35 apt=96\\r\\na=rtpmap:45 AV1/90000\\r\\na=rtcp-fb:45 goog-remb\\r\\na=rtcp-fb:45 transport-cc\\r\\na=rtcp-fb:45 ccm fir\\r\\na=rtcp-fb:45 nack\\r\\na=rtcp-fb:45 nack pli\\r\\na=fmtp:45 level-idx=5;profile=0;tier=0\\r\\na=rtpmap:46 rtx/90000\\r\\na=fmtp:46 apt=45\\r\\n\"}",
+     "timestamp": 1792808502465.994
+    },
+    {
+     "type": "onsignalingstatechange",
+     "value": "\"stable\"",
+     "timestamp": 1792808502467.627
+    },
+    {
+     "type": "transceiverModified",
+     "value": "{\"mid\":\"1\",\"kind\":\"video\",\"sender\":{\"track\":null,\"streams\":[],\"encodings\":[{\"active\":true}]},\"receiver\":{\"track\":\"czQIKffERJAyOAzg\",\"streams\":[\"JrrIhcfP\"]},\"direction\":\"recvonly\",\"currentDirection\":\"recvonly\",\"reason\":\"setLocalDescription\",\"transceiverIndex\":0}",
+     "timestamp": 1792808502467.649
+    },
+    {
+     "type": "transceiverModified",
+     "value": "{\"mid\":\"2\",\"kind\":\"video\",\"sender\":{\"track\":null,\"streams\":[],\"encodings\":[{\"active\":true}]},\"receiver\":{\"track\":\"zkaPuxLuomeFPJIa\",\"streams\":[\"gpGzsoKJ\"]},\"direction\":\"recvonly\",\"currentDirection\":\"recvonly\",\"reason\":\"setLocalDescription\",\"transceiverIndex\":1}",
+     "timestamp": 1792808502467.656
+    },
+    {
+     "type": "setLocalDescriptionOnSuccess",
+     "value": "",
+     "timestamp": 1792808502467.661
+    }
+   ],
+   "url": "https://api.mazupo.com/sfu/"
+  }
+ },
+ "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+ "UserAgentData": {
+  "brands": [
+   {
+    "brand": "Google Chrome",
+    "version": "155"
+   },
+   {
+    "brand": "Chromium",
+    "version": "155"
+   },
+   {
+    "brand": "Not(A:Brand",
+    "version": "24"
+   }
+  ],
+  "fullVersionList": [
+   {
+    "brand": "Google Chrome",
+    "version": "155.0.8059.86"
+   },
+   {
+    "brand": "Chromium",
+    "version": "155.0.8059.86"
+   },
+   {
+    "brand": "Not(A:Brand",
+    "version": "24.0.0.0"
+   }
+  ],
+  "mobile": false,
+  "platform": "Windows"
+ }
+}
